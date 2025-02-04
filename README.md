@@ -18,4 +18,4 @@ This project focuses on **predicting the estimated range of an electric vehicle 
 ## 🚀 Getting Started  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/Srihari334/SOC-estimation-of-Ev-battery.git
+   git clone https://github.com/Srihari334/SOC-estimation-of-Ev-battery.git   
